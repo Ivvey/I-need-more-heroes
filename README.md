@@ -1,0 +1,9 @@
+# I-need-more-heroes
+The ‘I need more heroes’ filter is a tool to connect with other adventurers when looking for a Dungeons and Dragons party. It is a selfie-filter created in Spark AR for taking selfies to post on social media such as instagram and facebook. 
+
+
+The filter itself bears semblance to a parchment scroll, with a portrait hole for the user’s face to show. In the section underneath the portrait, the titular phrase ‘I need more heroes’ is displayed. Above the portrait, one can find the class denomination as well as the user interface to switch between these classes. We used the twelve classes as provided in Wizards of the Coast’s “Players Handbook” (5th ed., 2014), and also provided an option for the Dungeon Master. Press the arrows on the user Interface to display the different options. Switching between these options additionally triggers 2D frames for the portrait as well as 2D and 3D Objects applied on and around the user’s face as appropriate for the classes. Examples are a wizard’s hat for the class of the same name, musical notes for the bard’s class, and trees behind the adventurer using the ranger class option. 
+
+The 3D models were made with Maya 3D and Substance Painter. The whole Effect was then created in Spark AR using its interface as well as a script to enable switching between the effects and classes with the arrows.
+
+The filter and its appearance as a scroll and the accompanying effects are designed to have an immediate impact on people looking at the picture. With a quick glance, people interested in playing the game can find people to play with, as well as see which role the user wants to fill within the game. With this filter and the hashtag #ineedmoreheroes we hope to help adventuring parties to form more easily on social media such as facebook or instagram. 
